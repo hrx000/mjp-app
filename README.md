@@ -1,4 +1,4 @@
-# mjp-app
+# ANDROID PACKET KIT(Using Android Studio)
 Just a simple app for college students
 Used Android studio for it
 Download link-https://drive.google.com/file/d/1nmaKd1lJGvgGOE0JJr-__f1gK51uiRxb/view?usp=sharing
